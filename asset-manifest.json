@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-boardmafia/static/css/main.6673cb2e.css",
+    "main.js": "/react-boardmafia/static/js/main.61fa24fb.js",
+    "static/js/453.60385ac4.chunk.js": "/react-boardmafia/static/js/453.60385ac4.chunk.js",
+    "static/media/new-certiciate-design.png": "/react-boardmafia/static/media/new-certiciate-design.a7a29b94f0f69f9417cb.png",
+    "static/media/Frame 1000015525.png": "/react-boardmafia/static/media/Frame 1000015525.9a4a8177d620ff9ba4d0.png",
+    "static/media/14327653_5474231 1.png": "/react-boardmafia/static/media/14327653_5474231 1.da508c78b29e99934a68.png",
+    "index.html": "/react-boardmafia/index.html",
+    "main.6673cb2e.css.map": "/react-boardmafia/static/css/main.6673cb2e.css.map",
+    "main.61fa24fb.js.map": "/react-boardmafia/static/js/main.61fa24fb.js.map",
+    "453.60385ac4.chunk.js.map": "/react-boardmafia/static/js/453.60385ac4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6673cb2e.css",
+    "static/js/main.61fa24fb.js"
+  ]
+}
